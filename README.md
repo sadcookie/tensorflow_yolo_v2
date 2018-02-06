@@ -25,6 +25,7 @@ But, we want to do in Tensorflow.
 
 ## Members
 Sung Won Lee (<lee10241993@cu.ac.kr>) - Main Developer
+
 KwangEun An (<yooer10@cu.ac.kr>) - Main Developer
 
 ### Brunch
