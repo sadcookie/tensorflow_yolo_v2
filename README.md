@@ -16,6 +16,7 @@ But, we want to do in Tensorflow.
 ---------------------------------------------------
  ### Sofrware
   * #### Window 10
+  * #### OpenCV 3.4
   * #### Python 3.6
   * #### Tensorflow 1.5
   * #### NVIDIA CUDA 9.0
