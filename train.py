@@ -3,7 +3,9 @@ import datetime
 import os
 import argparse
 import sys
-sys.path.insert(0,'C:/Users/SungWon/Documents/건설 기술 연구 프로젝트/MachineLearning_Python/yolo_tensorflow-master/yolo')
+# it must be changed
+# yolo model directory
+sys.path.insert(0,'C:/Users/SungWon/Documents/건설 기술 연구 프로젝트/MachineLearning_Python/tensorflow_yolo_v2/yolo')
 import yolo.config as cfg
 from yolo.yolo_net import YOLONet
 from utils.timer import Timer
