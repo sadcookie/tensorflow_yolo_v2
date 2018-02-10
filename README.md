@@ -30,7 +30,7 @@ Sung Won Lee (<lee10241993@cu.ac.kr>) - Main Developer
 KwangEun An (<yooer10@cu.ac.kr>) - Main Developer
 
 ### Brunch
- + (UNDEFINE) -- Sung Won Lee
+ + Tensorflow_YOLO_V1 -- Sung Won Lee
  + (UNDEFINE) -- KwangEun An
 
 ## Contributer
